@@ -15,7 +15,7 @@ public class Main {
 
         printStudent(student6);
 
-        student2.compareGryffindorStudents(student3);
+        student3.compareGryffindorStudents(student2);
         student4.compareSlytherinStudents(student5);
         student8.compareHufflepuffStudents(student9);
         student10.compareRavenclawStudents(student12);
